@@ -1,0 +1,4 @@
+Precision = TP / (TP + FP)
+Recall = TP / (TP + FN)
+Dynamic Programming is solving problems by breaking them into subproblems.
+Recursion is calling the same function within itself.
