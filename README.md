@@ -20,11 +20,17 @@ cd Edtech-Assistant
 ```bash
 pip install -r requirements.txt
 ```
-### 3. Run the FastAPI Server
+### 3. Add PDFs
+```bash
+knowledge_base/
+├── dsa.pdf
+├── algebra.pdf
+```
+### 4. Run the FastAPI Server
 ```bash
 python main.py
 ```
-### 4. Run the Streamlit App
+### 5. Run the Streamlit App
 ```bash
 streamlit run app.py
 ```
